@@ -11,5 +11,7 @@ Python-based exploratory data analysis of open-source Instacart data to derive i
 * What are the best-selling products?
 * What differences exist in the ordering habits of different customer profiles?
 
-## Data and Methodology
+## Data
 
+## Tools Used
+Python, pandas, seaborn, Jupyter Notebook
