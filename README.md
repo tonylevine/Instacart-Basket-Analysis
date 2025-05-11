@@ -13,6 +13,7 @@ Python-based exploratory data analysis of open-source Instacart data to derive i
 
 ## Data
 The Instacart Online Grocery Shopping Dataset 2017 is an anonymized dataset containing a sample of over 3 million grocery orders from more than 200,000 Instacart users. For each user, the dataset records between 4 and 100 of their orders, with the sequence of products purchased in each order. It also provides the week and hour of day the order was placed, and a relative measure of time between orders. ([source](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2))
+
 My analysis also included fictional data on customers for demonstration purposes.
 ## Tools Used
 Python, pandas, seaborn, scikit-learn, Jupyter Notebook
